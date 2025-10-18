@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ali Abdelaziz</h1>
-<h3 align="center">A Passionate Front-End Developer | React & React Native</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Front-End+Developer" alt="Typing Animation" />
 </p>
