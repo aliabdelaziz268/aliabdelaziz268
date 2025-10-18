@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ali</h1>
 <h3 align="center">💻 Front-End Developer | React & Web Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+React+Native+Lover;Building+Modern+Web+Interfaces;Always+Learning+New+Things! 🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me  
