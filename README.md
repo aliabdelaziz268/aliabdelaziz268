@@ -35,7 +35,6 @@
 |----------|--------------|------|
 | 🛍️ **E-Commerce App** | A full-featured React app with product management, cart, and checkout. | React, Redux, API |
 | 📱 **Movies App (React Native)** | Mobile app displaying trending movies with API integration. | React Native, Axios |
-| 📋 **Task Manager** | Simple CRUD app for daily tasks. | React, Hooks, LocalStorage |
 
 ---
 
