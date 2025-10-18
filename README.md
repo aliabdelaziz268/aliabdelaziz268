@@ -1,43 +1,50 @@
-# 👋 Hi, I'm Ali  
-### 💻 Front-End Developer | React & Web Enthusiast
+<h1 align="center">👋 Hi, I'm Ali</h1>
+<h3 align="center">💻 Front-End Developer | React & Web Enthusiast</h3>
 
-Welcome to my GitHub profile!  
-I'm a passionate **Front-End Developer** who loves turning creative ideas into modern, responsive, and user-friendly web interfaces.
-
----
-
-## 🚀 About Me  
-- 🎨 I specialize in **HTML, CSS, JavaScript, React, and Bootstrap**  
-- 🧠 Always learning new technologies to improve my front-end skills  
-- ⚡ I focus on creating smooth UI and clean, maintainable code  
-- 💬 I enjoy collaborating on web design and front-end projects  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+React+Native+Lover;Building+Modern+Web+Interfaces;Always+Learning+New+Things! 🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🧠 About Me  
+🌟 Passionate about crafting **beautiful, responsive, and functional** web interfaces.  
+💡 Always exploring **React, Bootstrap, Tailwind, and modern JS** tools.  
+🎯 Goal: Build creative, high-performance websites and apps.
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 My Stats  
+### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+### 🎨 Fun Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
@@ -47,4 +54,10 @@ I'm a passionate **Front-End Developer** who loves turning creative ideas into m
 
 ---
 
-⭐ **“Code is like art — every line should have purpose and style.”**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+⭐ **"Code with passion, design with purpose."**
