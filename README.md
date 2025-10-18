@@ -1,9 +1,5 @@
 <h1 align="center" style="font-size: 60px;">👋 Hi, I'm Ali</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Front-End+Developer;React+%26+React+Native+Developer;E-Commerce+Website+Builder;UI%2FUX+Enthusiast+✨" alt="Typing Animation" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
