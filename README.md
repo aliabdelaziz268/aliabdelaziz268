@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 60px;">👋 Hi, I'm Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;React+%26+React+Native+Engineer;E-Commerce+Website+Builder;UI%2FUX+Design+Lover;Always+Learning+and+Improving" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Front-End+Developer" alt="Typing Animation" />
 </p>
 
 ---
