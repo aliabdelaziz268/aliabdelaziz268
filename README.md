@@ -42,10 +42,12 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-abdelaziz" target="_blank">
+  <a href="https:/www.linkedin.com/in/ali-abdelaziz-moawad
+
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ali.abdelaziz@example.com">
+  <a href="mailto:aliabdelaziz268@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AliAbdelaziz">
