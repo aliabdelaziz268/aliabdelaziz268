@@ -31,38 +31,12 @@
 
 ---
 
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
-</p>
-
----
-
-### 🌀 Fun Animation  
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
 ### 🌟 Featured Projects  
 
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🛍️ **E-Commerce App** | A full-featured React app with product management, cart, and checkout. | React, Redux, API |
 | 📱 **Movies App (React Native)** | Mobile app displaying trending movies with API integration. | React Native, Axios |
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAbdelaziz&show_icons=true&theme=react" alt="Ali Abdelaziz GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdelaziz&theme=react" alt="streak stats" />
-</p>
 
 ---
 
