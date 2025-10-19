@@ -4,7 +4,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliabdelaziz268&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+---
 ### 🚀 About Me  
 💡 I’m a creative developer who loves building **modern, fast, and responsive** web & mobile apps.  
 🌱 Currently learning and improving my **React Native** and **Next.js** skills.  
