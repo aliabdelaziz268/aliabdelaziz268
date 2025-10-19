@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ali Abdelaziz</h1>
+<h1 align="center">
+  Hi 👋, I'm Ali Abdelaziz  
+  <img src="https://komarev.com/ghpvc/?username=aliabdelaziz268&label=Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Front-End+Developer" alt="Typing Animation" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliabdelaziz268&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ### 🚀 About Me  
 💡 I’m a creative developer who loves building **modern, fast, and responsive** web & mobile apps.  
