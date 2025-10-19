@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-
 🚀 About Me
 
 💡 I’m a Front-End Developer passionate about creating modern, fast, and responsive web & mobile applications.
