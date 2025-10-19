@@ -10,11 +10,13 @@
 ---
 
 
-### 🚀 About Me  
-💡 I’m a creative developer who loves building **modern, fast, and responsive** web & mobile apps.  
-🌱 Currently learning and improving my **React Native** and **Next.js** skills.  
-🎯 My goal is to create **smooth user experiences** with clean, maintainable code.  
-💬 Ask me about **JavaScript, React, React Native, and UI Design**.  
+🚀 About Me
+
+💡 I’m a Front-End Developer passionate about creating modern, fast, and responsive web & mobile applications.
+⚛️ Skilled in React and React Native, I focus on building clean, reusable components and smooth user interfaces.
+🌱 I’m always learning new techniques to improve performance, design, and user experience.
+🎯 My goal is to craft high-quality, user-friendly apps that make people’s lives easier.
+💬 I enjoy discussing JavaScript, React, React Native, and UI design principles.  
 
 ---
 
